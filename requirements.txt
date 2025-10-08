@@ -1,0 +1,5 @@
+torch	2.2.1+cu121
+python	3.8
+scikit-learn	1.3.2
+pandas	2.0.3
+numpy	1.24.1
